@@ -1,6 +1,7 @@
 # BaMBA_11
-Materials and poster for the 11th Biology and Mathematics in the Bay Area Conference. Concerns synergy theory, a topic in radiobiology. Synergy theory is highly relevant to modeling radiation effects for astronauts operating outside of low-earth-orbit. Poster discusses the current approaches to dose-effect relationships and introduces a new method to calculate baseline mixed dose-effect relationships. 
+Materials and poster for the 11th Biology and Mathematics in the Bay Area Conference. Concerns synergy theory, a topic in radiobiology. Synergy theory is highly relevant to modeling radiation damage on astronauts operating outside of low-earth-orbit. We discuss current approaches to dose-effect relationships and introduce a new method to calculate baseline mixtures of dose-effect relationships. 
 
+### Synergy Theory in Biology: Simulating Radiation Damage During Interplanetary Voyages as an Example
 
 #### Abstract 
 Synergy analysis uses the dose-effect relations (DERs) of mixture components to define a baseline mixture DER characterizing absence of synergy/antagonism. Pharmacologists have known for a very long time that the “obvious” method of simply adding component effects is wrong if the component DERs are highly curvilinear, so many replacements for the simple effect additivity baseline are in use [1-8]. We here discuss a recently introduced replacement [9], incremental effect additivity, which has fewer drawbacks than previous replacements. We exemplify incremental effect additivity by discussing the mixed radiation field above low earth orbit, whose components are believed to have highly curvilinear DERs for carcinogenesis.
