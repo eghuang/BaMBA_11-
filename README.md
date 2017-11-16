@@ -1,6 +1,7 @@
+# BaMBA_11
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-# BaMBA_11
 Materials and poster for the 11th Biology and Mathematics in the Bay Area Conference. Concerns synergy theory, a topic in radiobiology. Synergy theory is highly relevant to modeling radiation damage on astronauts operating outside of low-earth-orbit. We discuss current approaches to dose-effect relationships and introduce a new method to calculate baseline mixtures of dose-effect relationships. 
 
 ### Synergy Theory in Biology: Simulating Radiation Damage During Interplanetary Voyages as an Example
